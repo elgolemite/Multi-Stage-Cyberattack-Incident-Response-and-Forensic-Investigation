@@ -65,22 +65,27 @@ Ransomware deployment
 ### 2. Reconnaissance and Credential Access
 
 ![Remote template injection evidence](images/recon.png)
+
 *Figure 2: Reconnaissance commands executed after the workstation was compromised.*
 
 ### 3. Lateral Movement
 
 ![Remote template injection evidence](images/katz.png)
+
 *Figure 3: A Mimikatz-based executable was used to extract privileged NTLM credential material.*
 
 ![Remote template injection evidence](images/lateral.png)
+
 *Figure 4: The stolen NTLM hash was used to execute commands remotely on the file-sharing server through WMI/DCOM.*
 
 ### 4. Exfiltration and Ransomware
 
 ![Remote template injection evidence](images/exfiltration.png)
+
 *Figure 5: Network evidence showing documents transferred from the file-sharing server to attacker-controlled infrastructure.*
 
 ![Remote template injection evidence](images/ransomed.png)
+
 *Figure 6: Important documents were encrypted and a ransom note was left on the compromised file-sharing server.*
 
 ## MITRE ATT&CK Mapping
