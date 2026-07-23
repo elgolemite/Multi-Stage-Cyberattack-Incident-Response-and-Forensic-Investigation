@@ -59,19 +59,23 @@ Ransomware deployment
 ## Investigation Highlights
 ### 1. Initial Compromise
 
-
+![Remote template injection evidence](images/maldoc.png)
 
 ### 2. Reconnaissance and Credential Access
 
-
+![Remote template injection evidence](images/recon.png)
 
 ### 3. Lateral Movement
 
+![Remote template injection evidence](images/katz.png)
 
+![Remote template injection evidence](images/lateral.png)
 
 ### 4. Exfiltration and Ransomware
 
+![Remote template injection evidence](images/exfiltration.png)
 
+![Remote template injection evidence](images/ransomed.png)
 
 ## MITRE ATT&CK Mapping
 
