@@ -34,27 +34,28 @@ The investigation reconstructs the full attack chain, from initial access and re
 
 ## Attack Flow
 
-Attack Chain
-Malicious email attachment
+```text
+Malicious attachment
         ↓
 Remote template injection
         ↓
 Workstation compromise
         ↓
-System and user reconnaissance
+Host and AD reconnaissance
         ↓
-Active Directory enumeration
+Credential dumping
         ↓
-Domain Administrator credential compromise
+Pass-the-hash
         ↓
-Lateral movement to file-sharing server
+WMI/DCOM lateral movement
         ↓
-Folder and document enumeration
+File server compromise
         ↓
-Data exfiltration to C2 server
+Data exfiltration
         ↓
-File encryption and ransom note
+Ransomware deployment
 
+```
 ## Investigation Highlights
 ### 1. Initial Compromise
 
