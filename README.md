@@ -20,6 +20,7 @@ The investigation reconstructs the full attack chain, from initial access and re
 ## Tools Used
 
 |Tools|Purpose|
+|-|-|
 |Wireshark|Analysed network traffic associated with the compromised workstation and file-sharing server.|
 |DnSpy|Decompiled and reverse-engineered malicious .NET executables to inspect their code and behaviour.|
 |Sfextractor|Extracted embedded components from packed or self-extracting executable files for further analysis.|
