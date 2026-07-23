@@ -118,9 +118,7 @@ The attacker encrypted important documents stored on the file-sharing server and
 
 Impact: The encryption disrupted access to critical files, while the stolen copies could be used to pressure the victim into paying the ransom.
 
-## MITRE ATT&CK Mapping
 
-````markdown
 ## MITRE ATT&CK Mapping
 
 | Attack Phase | Tactic | Technique | Technique ID | Investigation Evidence |
