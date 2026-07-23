@@ -1,7 +1,7 @@
 # Multi-Stage-Cyberattack-Incident-Response-and-Forensic-Investigation
 This is NEXSEC CTF 2025 final challenge
 
-'Disclaimer: This investigation was conducted in a controlled cybersecurity lab simulation for educational purposes. No real production systems or organisations were affected.'
+`Disclaimer: This investigation was conducted in a controlled cybersecurity lab simulation for educational purposes. No real production systems or organisations were affected.`
 
 ## Overview
 
