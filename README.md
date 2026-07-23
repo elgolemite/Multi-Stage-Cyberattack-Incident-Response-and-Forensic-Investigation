@@ -192,7 +192,7 @@ T1486 – Data Encrypted for Impact
 |Files|xvzpox75.txt, C:\Users\FAKHRI~1.ZAM\AppData\Local\Temp\, explorer.exe, C:\Users\Public\, Brainstemo.exe, BrocaArea.ps1, Neurotransmitter.exe|
 |Hash|2412b095ddd77acf9f12fb9f27a3b45f (Financial.docx), 21255ae7a8212384c0ae33196b564df7 (xvzpox75.txt), 78f54036cc749baaf0b0f9216d458d19 (explorer.exe), 8182a667355dce657514b279e43da9f7 (BrocaArea.ps1), db89ec570e6281934a5c5fcf7f4c8967 (Brainstemo.exe), 621383cb58c85c414a3c1e791a2c06a2 (Cereberum.ps1), e930b05efe23891d19bc354a4209be3e (Neurotransmitter.exe)|
 |Domain|coorp.local|
-|URL|https://github.com/TomatoTerbang/fluffy-umbrella/raw/refs/heads/main/Reference.docm, https://raw.githubusercontent.com/TomatoTerbang/fluffy-umbrella/refs/heads/main/rainingdroplets.txt, "https://raw.githubusercontent.com/TomatoTerbang/fluffy-umbrella/refs/heads/main/windyseasons.txt"|
+|URL|https://github.com/TomatoTerbang/fluffy-umbrella/raw/refs/heads/main/Reference.docm, https://raw.githubusercontent.com/TomatoTerbang/fluffy-umbrella/refs/heads/main/rainingdroplets.txt, https://raw.githubusercontent.com/TomatoTerbang/fluffy-umbrella/refs/heads/main/windyseasons.txt|
 
 
 ## Conclusion 
